@@ -1,0 +1,1001 @@
+id,text,label
+1,The waste collection team was several hours late. Can you check the collection schedule?,delayed_pickup
+2,The bin outside our house has been full for days. We need a collection soon.,full_bin
+3,Do you collect recyclable waste for recycling? Can you give me guidance?,recycling_question
+4,The bin outside our house is completely full. It needs urgent collection.,full_bin
+5,The pickup service was delayed again. We had to leave the rubbish outside for longer.,delayed_pickup
+6,The collectors was several hours late. We would like collections to happen on time.,delayed_pickup
+7,Our household bin is overflowing with rubbish.,full_bin
+8,The bin outside our house cannot hold any more waste.,full_bin
+9,The neighborhood waste bin is completely full. It needs urgent collection.,full_bin
+10,Someone dumped a pile of rubbish in an empty plot. This keeps happening.,illegal_dumping
+11,The rubbish truck did not arrive at the expected time. Can you check the collection schedule?,delayed_pickup
+12,The neighborhood waste bin has no space left. It needs urgent collection.,full_bin
+13,Is there a recycling point for old paper? Can you give me guidance?,recycling_question
+14,Our garbage container is overflowing with rubbish. Please empty it.,full_bin
+15,The collectors collected the waste later than scheduled.,delayed_pickup
+16,Is there a place to take plastic containers for recycling?,recycling_question
+17,The rubbish truck came a day after the scheduled collection. Please improve the collection time.,delayed_pickup
+18,The waste company was several hours late.,delayed_pickup
+19,The waste collectors didn't show up yesterday. This has left rubbish outside our home.,missed_pickup
+20,The collectors was several hours late. Please improve the collection time.,delayed_pickup
+21,The rubbish truck missed our street yesterday. We need help with the pickup.,missed_pickup
+22,The garbage truck came two days late. Can you check the collection schedule?,delayed_pickup
+23,The rubbish truck missed our street during the scheduled pickup. This has left rubbish outside our home.,missed_pickup
+24,The pickup service came two days late. This affects our waste schedule.,delayed_pickup
+25,The rubbish truck keeps coming late. We had to leave the rubbish outside for longer.,delayed_pickup
+26,What should I do with plastic bottles if I want to recycle it? I do not want to put them in general waste.,recycling_question
+27,The bin outside our house cannot hold any more waste. Please empty it.,full_bin
+28,Where should I take plastic bottles? Please advise.,recycling_question
+29,People are dumping garbage beside the road. The waste should be cleared.,illegal_dumping
+30,Is there a recycling point for cardboard? I would like to separate my waste.,recycling_question
+31,The waste company skipped our house during the scheduled pickup. This has left rubbish outside our home.,missed_pickup
+32,How should I recycle plastic bottles? I do not want to put them in general waste.,recycling_question
+33,The collection team failed to collect the garbage this week. Can someone collect it?,missed_pickup
+34,The waste company was delayed again.,delayed_pickup
+35,Can recyclable waste be recycled? I would like to separate my waste.,recycling_question
+36,The neighborhood waste bin is filled to the top. We need a collection soon.,full_bin
+37,The rubbish truck failed to collect the garbage yesterday. This has left rubbish outside our home.,missed_pickup
+38,The waste collectors failed to collect the garbage for the second week. This has left rubbish outside our home.,missed_pickup
+39,The rubbish truck did not come this morning. The waste is still at our gate.,missed_pickup
+40,Construction waste has been dumped in an empty plot. Can this be investigated?,illegal_dumping
+41,The waste collection team collected the waste later than scheduled. Please improve the collection time.,delayed_pickup
+42,There is waste being dumped near the market. It is making the area dirty.,illegal_dumping
+43,People keep throwing rubbish beside the road. It is making the area dirty.,illegal_dumping
+44,Construction waste has been dumped next to the drainage. This keeps happening.,illegal_dumping
+45,Do you collect recyclable waste for recycling? I would like to separate my waste.,recycling_question
+46,People are dumping garbage beside the road. Please send a cleanup team.,illegal_dumping
+47,The rubbish truck failed to collect the garbage for the second week. Our bags are still outside.,missed_pickup
+48,The waste collection team collected the waste later than scheduled. We would like collections to happen on time.,delayed_pickup
+49,Do you collect cardboard for recycling? Can you give me guidance?,recycling_question
+50,The rubbish truck didn't show up this week. We need help with the pickup.,missed_pickup
+51,The waste company missed our street yesterday. Can someone collect it?,missed_pickup
+52,The pickup team failed to collect the garbage today. We need help with the pickup.,missed_pickup
+53,The waste collection team keeps coming late. Can you check the collection schedule?,delayed_pickup
+54,The rubbish truck did not come during the scheduled pickup. Our scheduled collection was missed.,missed_pickup
+55,The garbage truck skipped our house yesterday. Our scheduled collection was missed.,missed_pickup
+56,The garbage truck did not arrive at the expected time. This delay keeps happening.,delayed_pickup
+57,Is there a recycling point for cardboard? Please advise.,recycling_question
+58,What should I do with cardboard if I want to recycle it? I would like to separate my waste.,recycling_question
+59,The rubbish truck did not arrive at the expected time. We had to leave the rubbish outside for longer.,delayed_pickup
+60,The pickup service keeps coming late. Please improve the collection time.,delayed_pickup
+61,The waste collection team came two days late. We had to leave the rubbish outside for longer.,delayed_pickup
+62,Is there a place to take used packaging for recycling? I do not want to put them in general waste.,recycling_question
+63,The collectors keeps coming late.,delayed_pickup
+64,The waste collection team did not arrive at the expected time. This affects our waste schedule.,delayed_pickup
+65,Where can I recycle old newspapers? Please advise.,recycling_question
+66,Do you collect recyclable waste for recycling? Please advise.,recycling_question
+67,The waste company skipped our house yesterday.,missed_pickup
+68,Someone abandoned garbage close to our neighborhood. Please send a cleanup team.,illegal_dumping
+69,Someone dumped a pile of rubbish next to the drainage. It is making the area dirty.,illegal_dumping
+70,Is there a place to take plastic bags for recycling? Please advise.,recycling_question
+71,The waste collectors failed to collect the garbage on collection day. This has left rubbish outside our home.,missed_pickup
+72,The waste company keeps coming late. Please improve the collection time.,delayed_pickup
+73,The pickup service was several hours late. We would like collections to happen on time.,delayed_pickup
+74,Where can I recycle plastic bottles? I want to dispose of them properly.,recycling_question
+75,My waste bin is overflowing. Can someone come and empty it?,full_bin
+76,The communal bin is overflowing with rubbish. Please empty it.,full_bin
+77,Someone dumped a pile of rubbish near the market.,illegal_dumping
+78,People keep throwing rubbish beside the road. Please send a cleanup team.,illegal_dumping
+79,My waste bin is completely full.,full_bin
+80,People keep throwing rubbish on the roadside.,illegal_dumping
+81,People are dumping garbage close to our neighborhood. Please send a cleanup team.,illegal_dumping
+82,The communal bin has no space left. Please empty it.,full_bin
+83,Can plastic bottles be recycled? Please advise.,recycling_question
+84,People are dumping garbage next to the drainage. It is making the area dirty.,illegal_dumping
+85,The rubbish truck missed our street during the scheduled pickup. Can someone collect it?,missed_pickup
+86,The communal bin is completely full. We need a collection soon.,full_bin
+87,The waste collectors didn't collect our waste on collection day. Our scheduled collection was missed.,missed_pickup
+88,The rubbish truck never arrived last Friday. Can someone collect it?,missed_pickup
+89,How should I recycle cardboard? Please advise.,recycling_question
+90,The waste collectors never arrived today. Our bags are still outside.,missed_pickup
+91,The bin outside our house is overflowing with rubbish. We need a collection soon.,full_bin
+92,Where should I take old paper? I want to dispose of them properly.,recycling_question
+93,There is waste being dumped near the market. This keeps happening.,illegal_dumping
+94,People are dumping garbage on the roadside. This keeps happening.,illegal_dumping
+95,Someone left bags of trash near the school. This keeps happening.,illegal_dumping
+96,Someone abandoned garbage beside the road. The waste should be cleared.,illegal_dumping
+97,Our garbage container is overflowing with rubbish.,full_bin
+98,Someone dumped a pile of rubbish near the school. Please have it removed.,illegal_dumping
+99,The waste company did not come last Friday. Can someone collect it?,missed_pickup
+100,The neighborhood waste bin has no space left. There is nowhere to put more rubbish.,full_bin
+101,The bin outside our house has been full for days.,full_bin
+102,Construction waste has been dumped beside the road. It is making the area dirty.,illegal_dumping
+103,There is a large pile of waste near the school.,illegal_dumping
+104,Someone abandoned garbage on the roadside. Please have it removed.,illegal_dumping
+105,What should I do with old newspapers if I want to recycle it? I want to dispose of them properly.,recycling_question
+106,There is waste being dumped on the roadside. Please have it removed.,illegal_dumping
+107,Where can I recycle glass bottles? I want to dispose of them properly.,recycling_question
+108,Is there a place to take cardboard for recycling? Please advise.,recycling_question
+109,Someone dumped a pile of rubbish behind our building. Can this be investigated?,illegal_dumping
+110,There is a large pile of waste behind our building. Can this be investigated?,illegal_dumping
+111,The pickup service keeps coming late. Can you check the collection schedule?,delayed_pickup
+112,The waste company missed our street last Friday. Can someone collect it?,missed_pickup
+113,The waste collectors skipped our house on collection day.,missed_pickup
+114,The rubbish truck didn't show up today. Please arrange a collection.,missed_pickup
+115,Can plastic bottles be recycled? I want to dispose of them properly.,recycling_question
+116,The neighborhood waste bin cannot hold any more waste. Can someone come and empty it?,full_bin
+117,Someone dumped a pile of rubbish on the roadside. It is making the area dirty.,illegal_dumping
+118,People are dumping garbage in an empty plot. Please have it removed.,illegal_dumping
+119,Where should I take old paper?,recycling_question
+120,How should I recycle plastic bottles?,recycling_question
+121,The collection team failed to collect the garbage during the scheduled pickup. Our bags are still outside.,missed_pickup
+122,How should I recycle glass bottles? I do not want to put them in general waste.,recycling_question
+123,The garbage truck came a day after the scheduled collection. This affects our waste schedule.,delayed_pickup
+124,The pickup service came two days late.,delayed_pickup
+125,The waste collectors skipped our house yesterday. Please arrange a collection.,missed_pickup
+126,What should I do with plastic bags if I want to recycle it? I would like to separate my waste.,recycling_question
+127,My waste bin is overflowing. There is nowhere to put more rubbish.,full_bin
+128,How should I recycle glass bottles? I want to dispose of them properly.,recycling_question
+129,The waste collectors didn't show up this morning. Our bags are still outside.,missed_pickup
+130,The communal bin cannot hold any more waste. We need a collection soon.,full_bin
+131,The garbage truck didn't show up yesterday.,missed_pickup
+132,Can cardboard be recycled? Can you give me guidance?,recycling_question
+133,Someone abandoned garbage behind our building. It is blocking the area.,illegal_dumping
+134,The bin outside our house is overflowing with rubbish.,full_bin
+135,Where should I take glass bottles?,recycling_question
+136,The pickup service arrived late. Can you check the collection schedule?,delayed_pickup
+137,Someone abandoned garbage behind our building. Can this be investigated?,illegal_dumping
+138,The waste collection team was delayed again. This affects our waste schedule.,delayed_pickup
+139,The collection team missed our street this week. This has left rubbish outside our home.,missed_pickup
+140,The neighborhood waste bin is overflowing with rubbish. There is nowhere to put more rubbish.,full_bin
+141,Is there a recycling point for old newspapers? I want to dispose of them properly.,recycling_question
+142,How should I recycle recyclable waste? I do not want to put them in general waste.,recycling_question
+143,The garbage truck came two days late. Please improve the collection time.,delayed_pickup
+144,The communal bin has no space left. Waste is starting to fall onto the ground.,full_bin
+145,The communal bin is overflowing. There is nowhere to put more rubbish.,full_bin
+146,There is waste being dumped next to the drainage. The waste should be cleared.,illegal_dumping
+147,Where should I take plastic containers? Please advise.,recycling_question
+148,Where should I take recyclable waste? I would like to separate my waste.,recycling_question
+149,The pickup team missed our street yesterday.,missed_pickup
+150,How should I recycle plastic containers? I would like to separate my waste.,recycling_question
+151,The rubbish truck did not pick up the rubbish for the second week. Our scheduled collection was missed.,missed_pickup
+152,Our household bin is overflowing. Waste is starting to fall onto the ground.,full_bin
+153,Our garbage container has no space left. Can someone come and empty it?,full_bin
+154,Someone left bags of trash near the school. Please send a cleanup team.,illegal_dumping
+155,The waste company did not arrive at the expected time. Can you check the collection schedule?,delayed_pickup
+156,The rubbish truck was several hours late. Please improve the collection time.,delayed_pickup
+157,Construction waste has been dumped behind our building. It is blocking the area.,illegal_dumping
+158,The rubbish truck came two days late. Please improve the collection time.,delayed_pickup
+159,The garbage truck missed our street during the scheduled pickup. We need help with the pickup.,missed_pickup
+160,Our household bin is overflowing. It needs urgent collection.,full_bin
+161,Our garbage container is overflowing with rubbish. Can someone come and empty it?,full_bin
+162,My waste bin is filled to the top. It needs urgent collection.,full_bin
+163,The garbage truck came a day after the scheduled collection. We would like collections to happen on time.,delayed_pickup
+164,The neighborhood waste bin is overflowing. It needs urgent collection.,full_bin
+165,The waste company keeps coming late. We would like collections to happen on time.,delayed_pickup
+166,The rubbish truck collected the waste later than scheduled. This affects our waste schedule.,delayed_pickup
+167,People keep throwing rubbish near the school. Can this be investigated?,illegal_dumping
+168,The garbage truck was several hours late. Can you check the collection schedule?,delayed_pickup
+169,Where should I take old newspapers?,recycling_question
+170,The collectors keeps coming late. This delay keeps happening.,delayed_pickup
+171,The collection team missed our street today.,missed_pickup
+172,Someone abandoned garbage next to the drainage. This keeps happening.,illegal_dumping
+173,The garbage truck failed to collect the garbage this week. Can someone collect it?,missed_pickup
+174,There is a large pile of waste on the roadside. The waste should be cleared.,illegal_dumping
+175,Our garbage container is filled to the top. We need a collection soon.,full_bin
+176,Our garbage container is overflowing. There is nowhere to put more rubbish.,full_bin
+177,The rubbish truck didn't collect our waste today. Our scheduled collection was missed.,missed_pickup
+178,The pickup team did not pick up the rubbish today. Our bags are still outside.,missed_pickup
+179,The waste collection team was delayed again. We had to leave the rubbish outside for longer.,delayed_pickup
+180,The neighborhood waste bin has been full for days. There is nowhere to put more rubbish.,full_bin
+181,The pickup team didn't show up on collection day.,missed_pickup
+182,There is a large pile of waste on the roadside. Please send a cleanup team.,illegal_dumping
+183,The garbage truck did not pick up the rubbish this morning. We need help with the pickup.,missed_pickup
+184,Someone left bags of trash in an empty plot. This keeps happening.,illegal_dumping
+185,Do you collect glass bottles for recycling? I do not want to put them in general waste.,recycling_question
+186,The waste company collected the waste later than scheduled. Please improve the collection time.,delayed_pickup
+187,The waste company did not arrive at the expected time. We had to leave the rubbish outside for longer.,delayed_pickup
+188,Construction waste has been dumped on the roadside. Please have it removed.,illegal_dumping
+189,The waste company didn't show up on collection day. This has left rubbish outside our home.,missed_pickup
+190,My waste bin is overflowing with rubbish. There is nowhere to put more rubbish.,full_bin
+191,The waste company arrived late.,delayed_pickup
+192,Construction waste has been dumped behind our building.,illegal_dumping
+193,The waste company never arrived last Friday. Please arrange a collection.,missed_pickup
+194,The garbage truck arrived late. This affects our waste schedule.,delayed_pickup
+195,The pickup service collected the waste later than scheduled. We would like collections to happen on time.,delayed_pickup
+196,Someone abandoned garbage next to the drainage.,illegal_dumping
+197,Is there a recycling point for old paper? I want to dispose of them properly.,recycling_question
+198,Someone dumped a pile of rubbish close to our neighborhood. The waste should be cleared.,illegal_dumping
+199,There is waste being dumped next to the drainage. Please have it removed.,illegal_dumping
+200,Someone abandoned garbage near the market.,illegal_dumping
+201,The waste company keeps coming late. We had to leave the rubbish outside for longer.,delayed_pickup
+202,The pickup service was several hours late. This delay keeps happening.,delayed_pickup
+203,Our garbage container is filled to the top. It needs urgent collection.,full_bin
+204,The garbage truck did not come on collection day. Please arrange a collection.,missed_pickup
+205,The rubbish truck arrived late. We would like collections to happen on time.,delayed_pickup
+206,The garbage truck did not arrive at the expected time. Please improve the collection time.,delayed_pickup
+207,How should I recycle plastic bags? I would like to separate my waste.,recycling_question
+208,The pickup team never arrived today. This has left rubbish outside our home.,missed_pickup
+209,Is there a place to take plastic bags for recycling? I do not want to put them in general waste.,recycling_question
+210,The collection team didn't show up on collection day. The waste is still at our gate.,missed_pickup
+211,Our garbage container is overflowing.,full_bin
+212,Our household bin has no space left.,full_bin
+213,The waste collectors missed our street during the scheduled pickup.,missed_pickup
+214,People keep throwing rubbish in an empty plot. Please send a cleanup team.,illegal_dumping
+215,Construction waste has been dumped behind our building. The waste should be cleared.,illegal_dumping
+216,My waste bin cannot hold any more waste. Please empty it.,full_bin
+217,The bin outside our house has been full for days. Please empty it.,full_bin
+218,How should I recycle recyclable waste? Please advise.,recycling_question
+219,The pickup team didn't show up this morning. Our bags are still outside.,missed_pickup
+220,What should I do with plastic containers if I want to recycle it? I would like to separate my waste.,recycling_question
+221,The collectors was delayed again. This delay keeps happening.,delayed_pickup
+222,The collection team didn't collect our waste this morning. Our bags are still outside.,missed_pickup
+223,Someone dumped a pile of rubbish close to our neighborhood. This keeps happening.,illegal_dumping
+224,Is there a recycling point for plastic bags? I do not want to put them in general waste.,recycling_question
+225,There is waste being dumped on the roadside.,illegal_dumping
+226,There is a large pile of waste in an empty plot. It is blocking the area.,illegal_dumping
+227,Construction waste has been dumped beside the road. This keeps happening.,illegal_dumping
+228,Our household bin is overflowing with rubbish. Please empty it.,full_bin
+229,The rubbish truck didn't show up for the second week. The waste is still at our gate.,missed_pickup
+230,My waste bin cannot hold any more waste. It needs urgent collection.,full_bin
+231,The rubbish truck came two days late.,delayed_pickup
+232,The rubbish truck did not come this week. This has left rubbish outside our home.,missed_pickup
+233,Is there a place to take used packaging for recycling? Can you give me guidance?,recycling_question
+234,The rubbish truck did not arrive at the expected time. We would like collections to happen on time.,delayed_pickup
+235,The bin outside our house is overflowing. Waste is starting to fall onto the ground.,full_bin
+236,The bin outside our house has no space left. There is nowhere to put more rubbish.,full_bin
+237,Construction waste has been dumped near the school. This keeps happening.,illegal_dumping
+238,The collectors was several hours late. Can you check the collection schedule?,delayed_pickup
+239,Someone dumped a pile of rubbish next to the drainage.,illegal_dumping
+240,Where can I recycle plastic bags? Can you give me guidance?,recycling_question
+241,The pickup team didn't show up this morning. This has left rubbish outside our home.,missed_pickup
+242,Construction waste has been dumped close to our neighborhood. This keeps happening.,illegal_dumping
+243,People are dumping garbage near our house.,illegal_dumping
+244,My waste bin has been full for days.,full_bin
+245,The neighborhood waste bin is overflowing with rubbish. Waste is starting to fall onto the ground.,full_bin
+246,Our household bin is overflowing with rubbish. There is nowhere to put more rubbish.,full_bin
+247,Where can I recycle used packaging? I do not want to put them in general waste.,recycling_question
+248,Someone dumped a pile of rubbish next to the drainage. This keeps happening.,illegal_dumping
+249,Our household bin has been full for days.,full_bin
+250,The garbage truck keeps coming late. Can you check the collection schedule?,delayed_pickup
+251,My waste bin is completely full. There is nowhere to put more rubbish.,full_bin
+252,Where can I recycle metal cans? Can you give me guidance?,recycling_question
+253,The waste company failed to collect the garbage for the second week. Please arrange a collection.,missed_pickup
+254,The bin outside our house is filled to the top. There is nowhere to put more rubbish.,full_bin
+255,The collection team never arrived yesterday. Can someone collect it?,missed_pickup
+256,The communal bin is overflowing. Waste is starting to fall onto the ground.,full_bin
+257,Our garbage container is overflowing with rubbish. It needs urgent collection.,full_bin
+258,There is waste being dumped in an empty plot. Can this be investigated?,illegal_dumping
+259,Our household bin is completely full. Please empty it.,full_bin
+260,Can plastic bags be recycled? I would like to separate my waste.,recycling_question
+261,Where should I take plastic bags? Please advise.,recycling_question
+262,Where can I recycle used packaging? I want to dispose of them properly.,recycling_question
+263,The waste collectors failed to collect the garbage yesterday. This has left rubbish outside our home.,missed_pickup
+264,The communal bin cannot hold any more waste. Please empty it.,full_bin
+265,There is waste being dumped in an empty plot. Please have it removed.,illegal_dumping
+266,Construction waste has been dumped in an empty plot. It is blocking the area.,illegal_dumping
+267,The bin outside our house is overflowing with rubbish. There is nowhere to put more rubbish.,full_bin
+268,There is a large pile of waste near the market. It is making the area dirty.,illegal_dumping
+269,Do you collect plastic bags for recycling? I would like to separate my waste.,recycling_question
+270,The waste company was several hours late. We had to leave the rubbish outside for longer.,delayed_pickup
+271,The waste collectors didn't show up yesterday. Our bags are still outside.,missed_pickup
+272,The collectors arrived late.,delayed_pickup
+273,People keep throwing rubbish behind our building. It is blocking the area.,illegal_dumping
+274,Someone dumped a pile of rubbish behind our building. The waste should be cleared.,illegal_dumping
+275,The collection team never arrived this week. The waste is still at our gate.,missed_pickup
+276,Someone abandoned garbage near our house. It is blocking the area.,illegal_dumping
+277,Our household bin cannot hold any more waste. Waste is starting to fall onto the ground.,full_bin
+278,The pickup team never arrived this morning. Can someone collect it?,missed_pickup
+279,Is there a recycling point for recyclable waste? Can you give me guidance?,recycling_question
+280,The communal bin has no space left.,full_bin
+281,There is waste being dumped in an empty plot. It is blocking the area.,illegal_dumping
+282,The garbage truck was delayed again. We had to leave the rubbish outside for longer.,delayed_pickup
+283,The collectors came a day after the scheduled collection. This delay keeps happening.,delayed_pickup
+284,What should I do with used packaging if I want to recycle it?,recycling_question
+285,There is waste being dumped on the roadside. It is making the area dirty.,illegal_dumping
+286,The rubbish truck arrived late. This delay keeps happening.,delayed_pickup
+287,The neighborhood waste bin has no space left. Can someone come and empty it?,full_bin
+288,The rubbish truck didn't show up yesterday. This has left rubbish outside our home.,missed_pickup
+289,The waste company did not come during the scheduled pickup. Please arrange a collection.,missed_pickup
+290,Where should I take old paper? I do not want to put them in general waste.,recycling_question
+291,The collectors arrived late. Can you check the collection schedule?,delayed_pickup
+292,The collectors was delayed again. Please improve the collection time.,delayed_pickup
+293,The bin outside our house is completely full.,full_bin
+294,The collectors was delayed again.,delayed_pickup
+295,The collection team didn't show up during the scheduled pickup. Please arrange a collection.,missed_pickup
+296,The pickup service was several hours late. This affects our waste schedule.,delayed_pickup
+297,Someone abandoned garbage on the roadside. It is blocking the area.,illegal_dumping
+298,The neighborhood waste bin has no space left. We need a collection soon.,full_bin
+299,People keep throwing rubbish close to our neighborhood. It is blocking the area.,illegal_dumping
+300,The garbage truck collected the waste later than scheduled. We would like collections to happen on time.,delayed_pickup
+301,The waste company was delayed again. This delay keeps happening.,delayed_pickup
+302,The collection team did not come this week. We need help with the pickup.,missed_pickup
+303,Our household bin has been full for days. There is nowhere to put more rubbish.,full_bin
+304,The neighborhood waste bin is completely full. There is nowhere to put more rubbish.,full_bin
+305,People keep throwing rubbish near the school. It is making the area dirty.,illegal_dumping
+306,How should I recycle plastic bags? I do not want to put them in general waste.,recycling_question
+307,Do you collect used packaging for recycling?,recycling_question
+308,Is there a place to take used packaging for recycling?,recycling_question
+309,Our household bin is overflowing. We need a collection soon.,full_bin
+310,Someone left bags of trash next to the drainage. Can this be investigated?,illegal_dumping
+311,There is a large pile of waste on the roadside. It is blocking the area.,illegal_dumping
+312,Is there a recycling point for glass bottles?,recycling_question
+313,Is there a recycling point for used packaging? Please advise.,recycling_question
+314,Do you collect cardboard for recycling? I want to dispose of them properly.,recycling_question
+315,There is waste being dumped near the market. Can this be investigated?,illegal_dumping
+316,Someone left bags of trash near the school.,illegal_dumping
+317,My waste bin is filled to the top. There is nowhere to put more rubbish.,full_bin
+318,How should I recycle metal cans? Please advise.,recycling_question
+319,The pickup team didn't collect our waste on collection day. We need help with the pickup.,missed_pickup
+320,My waste bin has been full for days. Please empty it.,full_bin
+321,The garbage truck was delayed again.,delayed_pickup
+322,Where can I recycle metal cans?,recycling_question
+323,Someone abandoned garbage near the school. Please send a cleanup team.,illegal_dumping
+324,People keep throwing rubbish next to the drainage. This keeps happening.,illegal_dumping
+325,The waste company came two days late. This affects our waste schedule.,delayed_pickup
+326,The communal bin is overflowing.,full_bin
+327,The waste company collected the waste later than scheduled. We would like collections to happen on time.,delayed_pickup
+328,The collectors collected the waste later than scheduled. This affects our waste schedule.,delayed_pickup
+329,The waste company arrived late. This affects our waste schedule.,delayed_pickup
+330,Where should I take plastic containers? I want to dispose of them properly.,recycling_question
+331,What should I do with recyclable waste if I want to recycle it? Please advise.,recycling_question
+332,Someone left bags of trash behind our building. The waste should be cleared.,illegal_dumping
+333,The collectors collected the waste later than scheduled. We would like collections to happen on time.,delayed_pickup
+334,Is there a place to take glass bottles for recycling? I do not want to put them in general waste.,recycling_question
+335,The garbage truck collected the waste later than scheduled. Please improve the collection time.,delayed_pickup
+336,Someone abandoned garbage near our house. This keeps happening.,illegal_dumping
+337,How should I recycle plastic containers? Can you give me guidance?,recycling_question
+338,Our household bin is overflowing with rubbish. It needs urgent collection.,full_bin
+339,The rubbish truck missed our street this week. We need help with the pickup.,missed_pickup
+340,Where can I recycle plastic containers? Please advise.,recycling_question
+341,The pickup team never arrived today. We need help with the pickup.,missed_pickup
+342,The rubbish truck did not come last Friday.,missed_pickup
+343,Our garbage container has no space left. We need a collection soon.,full_bin
+344,The garbage truck didn't collect our waste today. Can someone collect it?,missed_pickup
+345,Is there a recycling point for plastic bottles?,recycling_question
+346,Is there a place to take used packaging for recycling? I want to dispose of them properly.,recycling_question
+347,My waste bin is filled to the top. We need a collection soon.,full_bin
+348,The bin outside our house is overflowing with rubbish. It needs urgent collection.,full_bin
+349,My waste bin is overflowing. Please empty it.,full_bin
+350,The garbage truck did not arrive at the expected time. We had to leave the rubbish outside for longer.,delayed_pickup
+351,Someone abandoned garbage next to the drainage. The waste should be cleared.,illegal_dumping
+352,Our household bin is filled to the top. There is nowhere to put more rubbish.,full_bin
+353,People are dumping garbage near our house. Can this be investigated?,illegal_dumping
+354,Is there a place to take plastic containers for recycling? I want to dispose of them properly.,recycling_question
+355,Is there a place to take old paper for recycling?,recycling_question
+356,Our garbage container has no space left. Please empty it.,full_bin
+357,Construction waste has been dumped on the roadside. This keeps happening.,illegal_dumping
+358,The garbage truck came two days late. We had to leave the rubbish outside for longer.,delayed_pickup
+359,Construction waste has been dumped close to our neighborhood. It is blocking the area.,illegal_dumping
+360,The waste collectors failed to collect the garbage for the second week.,missed_pickup
+361,The waste company never arrived today. Our bags are still outside.,missed_pickup
+362,Where should I take old newspapers? Please advise.,recycling_question
+363,What should I do with cardboard if I want to recycle it? I do not want to put them in general waste.,recycling_question
+364,My waste bin has no space left. Can someone come and empty it?,full_bin
+365,Is there a recycling point for plastic bottles? I want to dispose of them properly.,recycling_question
+366,How should I recycle glass bottles? Please advise.,recycling_question
+367,The collectors was delayed again. We would like collections to happen on time.,delayed_pickup
+368,Our household bin cannot hold any more waste. Please empty it.,full_bin
+369,The waste company never arrived this morning. We need help with the pickup.,missed_pickup
+370,There is waste being dumped beside the road. Please have it removed.,illegal_dumping
+371,The rubbish truck was delayed again.,delayed_pickup
+372,The garbage truck missed our street last Friday. The waste is still at our gate.,missed_pickup
+373,The communal bin has been full for days. Please empty it.,full_bin
+374,The communal bin is completely full. Please empty it.,full_bin
+375,The waste collectors skipped our house for the second week. Please arrange a collection.,missed_pickup
+376,The waste collection team came a day after the scheduled collection. This affects our waste schedule.,delayed_pickup
+377,There is a large pile of waste close to our neighborhood. Can this be investigated?,illegal_dumping
+378,Can glass bottles be recycled? I do not want to put them in general waste.,recycling_question
+379,Someone dumped a pile of rubbish behind our building. It is blocking the area.,illegal_dumping
+380,My waste bin has been full for days. It needs urgent collection.,full_bin
+381,Is there a recycling point for used packaging? Can you give me guidance?,recycling_question
+382,The bin outside our house is filled to the top. We need a collection soon.,full_bin
+383,Construction waste has been dumped behind our building. It is making the area dirty.,illegal_dumping
+384,The garbage truck skipped our house for the second week. This has left rubbish outside our home.,missed_pickup
+385,The communal bin cannot hold any more waste. It needs urgent collection.,full_bin
+386,The garbage truck skipped our house this week. This has left rubbish outside our home.,missed_pickup
+387,There is a large pile of waste near the school. It is blocking the area.,illegal_dumping
+388,The pickup team never arrived last Friday. Our bags are still outside.,missed_pickup
+389,The garbage truck keeps coming late. Please improve the collection time.,delayed_pickup
+390,The rubbish truck did not pick up the rubbish this morning. We need help with the pickup.,missed_pickup
+391,Construction waste has been dumped behind our building. Can this be investigated?,illegal_dumping
+392,My waste bin has no space left. Waste is starting to fall onto the ground.,full_bin
+393,The pickup team did not pick up the rubbish on collection day. This has left rubbish outside our home.,missed_pickup
+394,The communal bin is filled to the top. Please empty it.,full_bin
+395,The waste collection team keeps coming late. This affects our waste schedule.,delayed_pickup
+396,Is there a place to take cardboard for recycling? I want to dispose of them properly.,recycling_question
+397,Is there a recycling point for old newspapers? I would like to separate my waste.,recycling_question
+398,The waste company did not arrive at the expected time.,delayed_pickup
+399,The rubbish truck did not pick up the rubbish last Friday. The waste is still at our gate.,missed_pickup
+400,The garbage truck skipped our house for the second week.,missed_pickup
+401,The garbage truck didn't show up this morning. Our scheduled collection was missed.,missed_pickup
+402,The rubbish truck didn't show up this morning. Our scheduled collection was missed.,missed_pickup
+403,The pickup service keeps coming late.,delayed_pickup
+404,The waste collection team was several hours late. Please improve the collection time.,delayed_pickup
+405,The bin outside our house has no space left. Can someone come and empty it?,full_bin
+406,The collectors did not arrive at the expected time. Can you check the collection schedule?,delayed_pickup
+407,The rubbish truck collected the waste later than scheduled.,delayed_pickup
+408,The garbage truck came a day after the scheduled collection. Can you check the collection schedule?,delayed_pickup
+409,Someone abandoned garbage behind our building. It is making the area dirty.,illegal_dumping
+410,People are dumping garbage near our house. The waste should be cleared.,illegal_dumping
+411,The waste company did not pick up the rubbish on collection day.,missed_pickup
+412,Someone abandoned garbage in an empty plot.,illegal_dumping
+413,The waste collection team did not arrive at the expected time. We would like collections to happen on time.,delayed_pickup
+414,There is waste being dumped near the school. It is making the area dirty.,illegal_dumping
+415,The pickup service did not arrive at the expected time. Please improve the collection time.,delayed_pickup
+416,The pickup team didn't show up this week. The waste is still at our gate.,missed_pickup
+417,What should I do with old newspapers if I want to recycle it? I would like to separate my waste.,recycling_question
+418,The waste company failed to collect the garbage for the second week. We need help with the pickup.,missed_pickup
+419,People keep throwing rubbish close to our neighborhood. It is making the area dirty.,illegal_dumping
+420,The waste company was several hours late. Can you check the collection schedule?,delayed_pickup
+421,The garbage truck was several hours late. This affects our waste schedule.,delayed_pickup
+422,The garbage truck missed our street yesterday. This has left rubbish outside our home.,missed_pickup
+423,My waste bin cannot hold any more waste. There is nowhere to put more rubbish.,full_bin
+424,The neighborhood waste bin is overflowing. Please empty it.,full_bin
+425,My waste bin is completely full. It needs urgent collection.,full_bin
+426,What should I do with cardboard if I want to recycle it?,recycling_question
+427,Where can I recycle plastic bags? I do not want to put them in general waste.,recycling_question
+428,The rubbish truck didn't show up on collection day.,missed_pickup
+429,Construction waste has been dumped near the school. It is making the area dirty.,illegal_dumping
+430,There is a large pile of waste near our house. This keeps happening.,illegal_dumping
+431,The communal bin is overflowing. We need a collection soon.,full_bin
+432,The pickup team missed our street last Friday. Can someone collect it?,missed_pickup
+433,The rubbish truck didn't show up on collection day. Our scheduled collection was missed.,missed_pickup
+434,The pickup team never arrived today. Can someone collect it?,missed_pickup
+435,Where should I take recyclable waste?,recycling_question
+436,There is a large pile of waste on the roadside. Can this be investigated?,illegal_dumping
+437,How should I recycle plastic bags? Please advise.,recycling_question
+438,People keep throwing rubbish close to our neighborhood. This keeps happening.,illegal_dumping
+439,Where should I take plastic containers? Can you give me guidance?,recycling_question
+440,Is there a place to take old paper for recycling? I would like to separate my waste.,recycling_question
+441,The garbage truck never arrived on collection day. We need help with the pickup.,missed_pickup
+442,Can old newspapers be recycled?,recycling_question
+443,The communal bin has been full for days.,full_bin
+444,The rubbish truck was delayed again. Please improve the collection time.,delayed_pickup
+445,People keep throwing rubbish near the school. Please send a cleanup team.,illegal_dumping
+446,Our garbage container is filled to the top. Please empty it.,full_bin
+447,How should I recycle cardboard? I want to dispose of them properly.,recycling_question
+448,People keep throwing rubbish beside the road. It is blocking the area.,illegal_dumping
+449,People are dumping garbage on the roadside. It is making the area dirty.,illegal_dumping
+450,The pickup service came two days late. Can you check the collection schedule?,delayed_pickup
+451,What should I do with recyclable waste if I want to recycle it? Can you give me guidance?,recycling_question
+452,What should I do with plastic containers if I want to recycle it? I do not want to put them in general waste.,recycling_question
+453,The garbage truck collected the waste later than scheduled.,delayed_pickup
+454,Where should I take cardboard? I want to dispose of them properly.,recycling_question
+455,There is a large pile of waste behind our building. Please have it removed.,illegal_dumping
+456,The rubbish truck skipped our house during the scheduled pickup. We need help with the pickup.,missed_pickup
+457,Construction waste has been dumped in an empty plot. It is making the area dirty.,illegal_dumping
+458,What should I do with old newspapers if I want to recycle it? Can you give me guidance?,recycling_question
+459,The bin outside our house cannot hold any more waste. Waste is starting to fall onto the ground.,full_bin
+460,Can plastic bags be recycled?,recycling_question
+461,The waste collection team collected the waste later than scheduled. Can you check the collection schedule?,delayed_pickup
+462,Do you collect old newspapers for recycling? I would like to separate my waste.,recycling_question
+463,Our household bin is completely full.,full_bin
+464,The garbage truck skipped our house today. Can someone collect it?,missed_pickup
+465,The bin outside our house is filled to the top.,full_bin
+466,The rubbish truck arrived late. Please improve the collection time.,delayed_pickup
+467,Someone abandoned garbage near our house. Please have it removed.,illegal_dumping
+468,The waste collectors did not come on collection day. Our scheduled collection was missed.,missed_pickup
+469,The bin outside our house is overflowing. There is nowhere to put more rubbish.,full_bin
+470,My waste bin is completely full. Waste is starting to fall onto the ground.,full_bin
+471,There is a large pile of waste near the school. Please send a cleanup team.,illegal_dumping
+472,Do you collect used packaging for recycling? I want to dispose of them properly.,recycling_question
+473,People keep throwing rubbish next to the drainage. Please send a cleanup team.,illegal_dumping
+474,Construction waste has been dumped near our house. It is blocking the area.,illegal_dumping
+475,The rubbish truck failed to collect the garbage for the second week.,missed_pickup
+476,Our garbage container cannot hold any more waste.,full_bin
+477,People are dumping garbage near our house. It is blocking the area.,illegal_dumping
+478,The pickup team didn't show up yesterday. Our scheduled collection was missed.,missed_pickup
+479,Is there a place to take recyclable waste for recycling? Please advise.,recycling_question
+480,The waste company came a day after the scheduled collection.,delayed_pickup
+481,Where can I recycle plastic containers?,recycling_question
+482,Where should I take plastic bottles? I would like to separate my waste.,recycling_question
+483,The communal bin is filled to the top. Waste is starting to fall onto the ground.,full_bin
+484,The collectors collected the waste later than scheduled. We had to leave the rubbish outside for longer.,delayed_pickup
+485,The rubbish truck did not pick up the rubbish for the second week.,missed_pickup
+486,The waste collectors did not come last Friday.,missed_pickup
+487,The neighborhood waste bin is filled to the top. Please empty it.,full_bin
+488,There is a large pile of waste beside the road. Please send a cleanup team.,illegal_dumping
+489,The waste company did not pick up the rubbish this week. This has left rubbish outside our home.,missed_pickup
+490,Someone left bags of trash near our house. The waste should be cleared.,illegal_dumping
+491,The pickup service keeps coming late. This delay keeps happening.,delayed_pickup
+492,The rubbish truck was delayed again. Can you check the collection schedule?,delayed_pickup
+493,The waste company failed to collect the garbage last Friday. We need help with the pickup.,missed_pickup
+494,There is waste being dumped next to the drainage.,illegal_dumping
+495,The rubbish truck did not arrive at the expected time.,delayed_pickup
+496,The communal bin cannot hold any more waste. Can someone come and empty it?,full_bin
+497,The waste company never arrived this week. We need help with the pickup.,missed_pickup
+498,How should I recycle metal cans? Can you give me guidance?,recycling_question
+499,The rubbish truck was several hours late. We would like collections to happen on time.,delayed_pickup
+500,Someone abandoned garbage in an empty plot. It is blocking the area.,illegal_dumping
+501,The collection team missed our street this morning. We need help with the pickup.,missed_pickup
+502,The waste collectors didn't collect our waste last Friday. Our bags are still outside.,missed_pickup
+503,The waste company did not pick up the rubbish this week. We need help with the pickup.,missed_pickup
+504,Someone left bags of trash in an empty plot. Please send a cleanup team.,illegal_dumping
+505,The waste company came two days late. Can you check the collection schedule?,delayed_pickup
+506,There is waste being dumped next to the drainage. Please send a cleanup team.,illegal_dumping
+507,How should I recycle metal cans? I want to dispose of them properly.,recycling_question
+508,What should I do with cardboard if I want to recycle it? I want to dispose of them properly.,recycling_question
+509,Where should I take plastic bottles? Can you give me guidance?,recycling_question
+510,The pickup team didn't collect our waste on collection day. Please arrange a collection.,missed_pickup
+511,The communal bin has been full for days. Can someone come and empty it?,full_bin
+512,Someone abandoned garbage close to our neighborhood. Can this be investigated?,illegal_dumping
+513,The rubbish truck missed our street on collection day. This has left rubbish outside our home.,missed_pickup
+514,Can old newspapers be recycled? Please advise.,recycling_question
+515,Can recyclable waste be recycled? I want to dispose of them properly.,recycling_question
+516,Do you collect plastic bags for recycling? I want to dispose of them properly.,recycling_question
+517,The waste collectors failed to collect the garbage during the scheduled pickup. Please arrange a collection.,missed_pickup
+518,The garbage truck didn't show up on collection day. We need help with the pickup.,missed_pickup
+519,The garbage truck never arrived last Friday. This has left rubbish outside our home.,missed_pickup
+520,Can glass bottles be recycled? Please advise.,recycling_question
+521,The rubbish truck was several hours late. We had to leave the rubbish outside for longer.,delayed_pickup
+522,The garbage truck missed our street yesterday.,missed_pickup
+523,The garbage truck did not arrive at the expected time. Can you check the collection schedule?,delayed_pickup
+524,The waste collectors didn't collect our waste during the scheduled pickup. Please arrange a collection.,missed_pickup
+525,Our household bin is completely full. It needs urgent collection.,full_bin
+526,People are dumping garbage next to the drainage. The waste should be cleared.,illegal_dumping
+527,The collectors came a day after the scheduled collection. We would like collections to happen on time.,delayed_pickup
+528,The communal bin is filled to the top. Can someone come and empty it?,full_bin
+529,Our garbage container is overflowing. We need a collection soon.,full_bin
+530,Someone dumped a pile of rubbish next to the drainage. It is blocking the area.,illegal_dumping
+531,The collection team failed to collect the garbage for the second week. We need help with the pickup.,missed_pickup
+532,The collection team never arrived today. This has left rubbish outside our home.,missed_pickup
+533,The waste company missed our street this week. We need help with the pickup.,missed_pickup
+534,The garbage truck skipped our house last Friday.,missed_pickup
+535,The pickup team skipped our house last Friday.,missed_pickup
+536,The pickup service did not arrive at the expected time. Can you check the collection schedule?,delayed_pickup
+537,The bin outside our house is filled to the top. Can someone come and empty it?,full_bin
+538,The collection team failed to collect the garbage yesterday. We need help with the pickup.,missed_pickup
+539,The garbage truck collected the waste later than scheduled. We had to leave the rubbish outside for longer.,delayed_pickup
+540,The rubbish truck skipped our house this morning. Our bags are still outside.,missed_pickup
+541,The bin outside our house has been full for days. It needs urgent collection.,full_bin
+542,Do you collect metal cans for recycling? I would like to separate my waste.,recycling_question
+543,Is there a place to take glass bottles for recycling? Please advise.,recycling_question
+544,Can used packaging be recycled? I do not want to put them in general waste.,recycling_question
+545,Someone left bags of trash behind our building. Please have it removed.,illegal_dumping
+546,Our household bin is overflowing with rubbish. We need a collection soon.,full_bin
+547,The collectors came a day after the scheduled collection. This affects our waste schedule.,delayed_pickup
+548,Someone abandoned garbage near our house. The waste should be cleared.,illegal_dumping
+549,The waste company keeps coming late. Can you check the collection schedule?,delayed_pickup
+550,Someone abandoned garbage near the market. The waste should be cleared.,illegal_dumping
+551,What should I do with plastic bottles if I want to recycle it? Please advise.,recycling_question
+552,Where can I recycle glass bottles? I do not want to put them in general waste.,recycling_question
+553,The waste collection team arrived late. We would like collections to happen on time.,delayed_pickup
+554,The bin outside our house is overflowing. We need a collection soon.,full_bin
+555,People keep throwing rubbish next to the drainage. It is making the area dirty.,illegal_dumping
+556,The collectors came two days late. Please improve the collection time.,delayed_pickup
+557,My waste bin is completely full. Can someone come and empty it?,full_bin
+558,The waste company came a day after the scheduled collection. Please improve the collection time.,delayed_pickup
+559,The pickup team didn't collect our waste this morning. Our bags are still outside.,missed_pickup
+560,The pickup service was delayed again. Please improve the collection time.,delayed_pickup
+561,The communal bin has no space left. There is nowhere to put more rubbish.,full_bin
+562,Can plastic containers be recycled? I would like to separate my waste.,recycling_question
+563,People keep throwing rubbish near the market. Please have it removed.,illegal_dumping
+564,People keep throwing rubbish beside the road. Can this be investigated?,illegal_dumping
+565,Someone left bags of trash behind our building. Can this be investigated?,illegal_dumping
+566,Where should I take old paper? Please advise.,recycling_question
+567,Is there a place to take recyclable waste for recycling?,recycling_question
+568,People keep throwing rubbish near our house. Please send a cleanup team.,illegal_dumping
+569,Construction waste has been dumped next to the drainage. Please have it removed.,illegal_dumping
+570,Someone left bags of trash near the market. Please send a cleanup team.,illegal_dumping
+571,The collection team skipped our house on collection day. Please arrange a collection.,missed_pickup
+572,The collectors came two days late. This affects our waste schedule.,delayed_pickup
+573,My waste bin cannot hold any more waste. Can someone come and empty it?,full_bin
+574,Our household bin is completely full. Waste is starting to fall onto the ground.,full_bin
+575,Our garbage container is overflowing with rubbish. Waste is starting to fall onto the ground.,full_bin
+576,The waste collection team keeps coming late. We would like collections to happen on time.,delayed_pickup
+577,The waste company was delayed again. Please improve the collection time.,delayed_pickup
+578,The garbage truck didn't collect our waste last Friday. Our bags are still outside.,missed_pickup
+579,My waste bin has no space left.,full_bin
+580,The waste company failed to collect the garbage on collection day. We need help with the pickup.,missed_pickup
+581,People are dumping garbage next to the drainage.,illegal_dumping
+582,The bin outside our house has no space left. Please empty it.,full_bin
+583,People are dumping garbage near the school. The waste should be cleared.,illegal_dumping
+584,The waste company missed our street today. Please arrange a collection.,missed_pickup
+585,The garbage truck came two days late. We would like collections to happen on time.,delayed_pickup
+586,The pickup service came a day after the scheduled collection.,delayed_pickup
+587,Our garbage container has been full for days. It needs urgent collection.,full_bin
+588,Someone dumped a pile of rubbish on the roadside. It is blocking the area.,illegal_dumping
+589,The collection team missed our street on collection day. Can someone collect it?,missed_pickup
+590,Is there a place to take old newspapers for recycling?,recycling_question
+591,The garbage truck did not pick up the rubbish this week. We need help with the pickup.,missed_pickup
+592,The garbage truck was delayed again. Please improve the collection time.,delayed_pickup
+593,The garbage truck didn't collect our waste yesterday. Our scheduled collection was missed.,missed_pickup
+594,The bin outside our house cannot hold any more waste. We need a collection soon.,full_bin
+595,The garbage truck was several hours late. This delay keeps happening.,delayed_pickup
+596,The waste company skipped our house on collection day. Our bags are still outside.,missed_pickup
+597,People are dumping garbage beside the road. This keeps happening.,illegal_dumping
+598,Is there a recycling point for recyclable waste? Please advise.,recycling_question
+599,The waste company came a day after the scheduled collection. This affects our waste schedule.,delayed_pickup
+600,The waste collection team came two days late. Can you check the collection schedule?,delayed_pickup
+601,The communal bin cannot hold any more waste. Waste is starting to fall onto the ground.,full_bin
+602,Someone left bags of trash near the school. Please have it removed.,illegal_dumping
+603,Our garbage container has been full for days. There is nowhere to put more rubbish.,full_bin
+604,The waste company never arrived yesterday. Please arrange a collection.,missed_pickup
+605,Someone left bags of trash close to our neighborhood. Please send a cleanup team.,illegal_dumping
+606,The waste collectors did not pick up the rubbish for the second week. We need help with the pickup.,missed_pickup
+607,Our household bin cannot hold any more waste. We need a collection soon.,full_bin
+608,Do you collect used packaging for recycling? I would like to separate my waste.,recycling_question
+609,The pickup team did not pick up the rubbish during the scheduled pickup. Can someone collect it?,missed_pickup
+610,The collectors was delayed again. Can you check the collection schedule?,delayed_pickup
+611,What should I do with used packaging if I want to recycle it? Can you give me guidance?,recycling_question
+612,The communal bin is filled to the top. We need a collection soon.,full_bin
+613,The collectors came a day after the scheduled collection. Please improve the collection time.,delayed_pickup
+614,The collection team missed our street for the second week. Please arrange a collection.,missed_pickup
+615,Construction waste has been dumped on the roadside. The waste should be cleared.,illegal_dumping
+616,Our garbage container has no space left. There is nowhere to put more rubbish.,full_bin
+617,How should I recycle plastic bottles? I want to dispose of them properly.,recycling_question
+618,There is a large pile of waste behind our building. It is making the area dirty.,illegal_dumping
+619,Someone dumped a pile of rubbish near our house. This keeps happening.,illegal_dumping
+620,The neighborhood waste bin is overflowing with rubbish. It needs urgent collection.,full_bin
+621,Someone dumped a pile of rubbish behind our building. It is making the area dirty.,illegal_dumping
+622,People are dumping garbage beside the road.,illegal_dumping
+623,The garbage truck came two days late. This delay keeps happening.,delayed_pickup
+624,Where can I recycle metal cans? I do not want to put them in general waste.,recycling_question
+625,My waste bin is completely full. Please empty it.,full_bin
+626,The waste collection team came two days late. This affects our waste schedule.,delayed_pickup
+627,The pickup service arrived late. Please improve the collection time.,delayed_pickup
+628,Where should I take glass bottles? Can you give me guidance?,recycling_question
+629,Where can I recycle old newspapers? I want to dispose of them properly.,recycling_question
+630,The rubbish truck skipped our house this week.,missed_pickup
+631,Someone dumped a pile of rubbish close to our neighborhood. It is blocking the area.,illegal_dumping
+632,The rubbish truck arrived late. We had to leave the rubbish outside for longer.,delayed_pickup
+633,There is a large pile of waste near our house. The waste should be cleared.,illegal_dumping
+634,Someone abandoned garbage next to the drainage. Please send a cleanup team.,illegal_dumping
+635,My waste bin has no space left. We need a collection soon.,full_bin
+636,The collectors came two days late. We would like collections to happen on time.,delayed_pickup
+637,What should I do with glass bottles if I want to recycle it? I do not want to put them in general waste.,recycling_question
+638,How should I recycle used packaging? Can you give me guidance?,recycling_question
+639,The collection team didn't collect our waste this week. The waste is still at our gate.,missed_pickup
+640,The rubbish truck keeps coming late.,delayed_pickup
+641,The pickup service was several hours late. Can you check the collection schedule?,delayed_pickup
+642,The garbage truck missed our street during the scheduled pickup. Please arrange a collection.,missed_pickup
+643,Our household bin has no space left. Please empty it.,full_bin
+644,Someone abandoned garbage near our house. Can this be investigated?,illegal_dumping
+645,Someone abandoned garbage behind our building. This keeps happening.,illegal_dumping
+646,The garbage truck failed to collect the garbage on collection day. The waste is still at our gate.,missed_pickup
+647,The collection team skipped our house today. Our bags are still outside.,missed_pickup
+648,Someone left bags of trash behind our building. This keeps happening.,illegal_dumping
+649,People are dumping garbage near the school. This keeps happening.,illegal_dumping
+650,The rubbish truck keeps coming late. Please improve the collection time.,delayed_pickup
+651,There is waste being dumped near the school.,illegal_dumping
+652,There is waste being dumped near our house. It is making the area dirty.,illegal_dumping
+653,The rubbish truck skipped our house yesterday. Our bags are still outside.,missed_pickup
+654,The collection team didn't collect our waste this week. Our bags are still outside.,missed_pickup
+655,The waste collectors skipped our house this morning. Our scheduled collection was missed.,missed_pickup
+656,There is waste being dumped near the market. Please send a cleanup team.,illegal_dumping
+657,The waste company did not come yesterday. The waste is still at our gate.,missed_pickup
+658,How should I recycle recyclable waste?,recycling_question
+659,The collectors came a day after the scheduled collection.,delayed_pickup
+660,The pickup service arrived late. This delay keeps happening.,delayed_pickup
+661,Our household bin has no space left. It needs urgent collection.,full_bin
+662,People are dumping garbage close to our neighborhood. The waste should be cleared.,illegal_dumping
+663,The bin outside our house has no space left.,full_bin
+664,The communal bin is overflowing with rubbish.,full_bin
+665,The bin outside our house is overflowing. It needs urgent collection.,full_bin
+666,My waste bin is filled to the top. Can someone come and empty it?,full_bin
+667,Our garbage container has been full for days. We need a collection soon.,full_bin
+668,Where should I take plastic containers?,recycling_question
+669,People keep throwing rubbish close to our neighborhood. Please send a cleanup team.,illegal_dumping
+670,The waste collection team was several hours late. We had to leave the rubbish outside for longer.,delayed_pickup
+671,There is a large pile of waste next to the drainage. Please have it removed.,illegal_dumping
+672,What should I do with metal cans if I want to recycle it? I want to dispose of them properly.,recycling_question
+673,The neighborhood waste bin has been full for days. We need a collection soon.,full_bin
+674,The neighborhood waste bin has no space left. Waste is starting to fall onto the ground.,full_bin
+675,The garbage truck skipped our house today. Please arrange a collection.,missed_pickup
+676,What should I do with plastic bottles if I want to recycle it? Can you give me guidance?,recycling_question
+677,The rubbish truck came two days late. We would like collections to happen on time.,delayed_pickup
+678,There is a large pile of waste near our house.,illegal_dumping
+679,The waste company collected the waste later than scheduled. We had to leave the rubbish outside for longer.,delayed_pickup
+680,Is there a recycling point for cardboard? I want to dispose of them properly.,recycling_question
+681,People keep throwing rubbish on the roadside. Please send a cleanup team.,illegal_dumping
+682,Someone left bags of trash close to our neighborhood. The waste should be cleared.,illegal_dumping
+683,Construction waste has been dumped near the school. Please send a cleanup team.,illegal_dumping
+684,Can plastic bottles be recycled? I would like to separate my waste.,recycling_question
+685,The pickup service keeps coming late. We would like collections to happen on time.,delayed_pickup
+686,The waste collection team keeps coming late. This delay keeps happening.,delayed_pickup
+687,Can old newspapers be recycled? Can you give me guidance?,recycling_question
+688,There is waste being dumped beside the road. It is blocking the area.,illegal_dumping
+689,Our household bin is filled to the top.,full_bin
+690,Do you collect plastic bags for recycling?,recycling_question
+691,Is there a place to take recyclable waste for recycling? I want to dispose of them properly.,recycling_question
+692,The waste company arrived late. Can you check the collection schedule?,delayed_pickup
+693,The waste collectors didn't show up this week. Our bags are still outside.,missed_pickup
+694,The garbage truck collected the waste later than scheduled. This affects our waste schedule.,delayed_pickup
+695,Construction waste has been dumped close to our neighborhood.,illegal_dumping
+696,Construction waste has been dumped in an empty plot.,illegal_dumping
+697,The neighborhood waste bin is overflowing.,full_bin
+698,People keep throwing rubbish near the school. This keeps happening.,illegal_dumping
+699,The collectors came a day after the scheduled collection. We had to leave the rubbish outside for longer.,delayed_pickup
+700,What should I do with plastic bags if I want to recycle it? I do not want to put them in general waste.,recycling_question
+701,The bin outside our house has been full for days. Can someone come and empty it?,full_bin
+702,There is a large pile of waste close to our neighborhood. This keeps happening.,illegal_dumping
+703,Is there a place to take plastic containers for recycling? I would like to separate my waste.,recycling_question
+704,People are dumping garbage near the school. It is making the area dirty.,illegal_dumping
+705,How should I recycle metal cans?,recycling_question
+706,Where can I recycle old newspapers? Can you give me guidance?,recycling_question
+707,Is there a recycling point for plastic bottles? Please advise.,recycling_question
+708,Someone left bags of trash near the school. It is making the area dirty.,illegal_dumping
+709,The rubbish truck came two days late. This delay keeps happening.,delayed_pickup
+710,The waste collectors missed our street this morning.,missed_pickup
+711,The pickup team didn't collect our waste this week. This has left rubbish outside our home.,missed_pickup
+712,The neighborhood waste bin is overflowing with rubbish. We need a collection soon.,full_bin
+713,How should I recycle plastic containers? I want to dispose of them properly.,recycling_question
+714,The collection team failed to collect the garbage for the second week. Our bags are still outside.,missed_pickup
+715,What should I do with old paper if I want to recycle it? I want to dispose of them properly.,recycling_question
+716,The garbage truck did not arrive at the expected time. This affects our waste schedule.,delayed_pickup
+717,The communal bin has been full for days. We need a collection soon.,full_bin
+718,The pickup service was delayed again. We would like collections to happen on time.,delayed_pickup
+719,The bin outside our house has been full for days. Waste is starting to fall onto the ground.,full_bin
+720,The waste collectors did not pick up the rubbish yesterday. Our bags are still outside.,missed_pickup
+721,Our household bin has been full for days. Waste is starting to fall onto the ground.,full_bin
+722,The waste collectors did not pick up the rubbish this morning. Can someone collect it?,missed_pickup
+723,The waste company arrived late. This delay keeps happening.,delayed_pickup
+724,The rubbish truck never arrived this morning. We need help with the pickup.,missed_pickup
+725,The communal bin has no space left. It needs urgent collection.,full_bin
+726,Where can I recycle metal cans? Please advise.,recycling_question
+727,Is there a recycling point for old newspapers? I do not want to put them in general waste.,recycling_question
+728,Where can I recycle plastic containers? I want to dispose of them properly.,recycling_question
+729,The communal bin has no space left. Can someone come and empty it?,full_bin
+730,The pickup team skipped our house this morning. Please arrange a collection.,missed_pickup
+731,Where should I take metal cans? Can you give me guidance?,recycling_question
+732,Where should I take plastic bags?,recycling_question
+733,The pickup service was delayed again. This affects our waste schedule.,delayed_pickup
+734,The waste company was several hours late. Please improve the collection time.,delayed_pickup
+735,Our garbage container cannot hold any more waste. Waste is starting to fall onto the ground.,full_bin
+736,The collection team missed our street today. We need help with the pickup.,missed_pickup
+737,The pickup service came a day after the scheduled collection. This delay keeps happening.,delayed_pickup
+738,Can glass bottles be recycled? Can you give me guidance?,recycling_question
+739,The garbage truck missed our street for the second week. Our bags are still outside.,missed_pickup
+740,Our garbage container is overflowing. It needs urgent collection.,full_bin
+741,There is waste being dumped beside the road. Can this be investigated?,illegal_dumping
+742,The bin outside our house has no space left. It needs urgent collection.,full_bin
+743,The pickup team missed our street this week. The waste is still at our gate.,missed_pickup
+744,The garbage truck failed to collect the garbage for the second week. Please arrange a collection.,missed_pickup
+745,Someone abandoned garbage near the school. This keeps happening.,illegal_dumping
+746,The waste company came a day after the scheduled collection. We had to leave the rubbish outside for longer.,delayed_pickup
+747,Someone abandoned garbage near the market. This keeps happening.,illegal_dumping
+748,The waste collectors never arrived for the second week. Our bags are still outside.,missed_pickup
+749,Our garbage container has no space left.,full_bin
+750,How should I recycle old newspapers? I want to dispose of them properly.,recycling_question
+751,Is there a recycling point for old paper? I do not want to put them in general waste.,recycling_question
+752,The garbage truck failed to collect the garbage on collection day. Our scheduled collection was missed.,missed_pickup
+753,Our household bin is overflowing with rubbish. Waste is starting to fall onto the ground.,full_bin
+754,The rubbish truck never arrived on collection day. The waste is still at our gate.,missed_pickup
+755,The rubbish truck came two days late. We had to leave the rubbish outside for longer.,delayed_pickup
+756,The rubbish truck did not pick up the rubbish last Friday. Can someone collect it?,missed_pickup
+757,Can metal cans be recycled? I want to dispose of them properly.,recycling_question
+758,Someone left bags of trash near the market. This keeps happening.,illegal_dumping
+759,The neighborhood waste bin has been full for days. It needs urgent collection.,full_bin
+760,The neighborhood waste bin has been full for days.,full_bin
+761,People keep throwing rubbish next to the drainage. It is blocking the area.,illegal_dumping
+762,What should I do with old paper if I want to recycle it?,recycling_question
+763,Someone abandoned garbage in an empty plot. The waste should be cleared.,illegal_dumping
+764,How should I recycle old newspapers? Can you give me guidance?,recycling_question
+765,The rubbish truck was delayed again. This affects our waste schedule.,delayed_pickup
+766,There is a large pile of waste near our house. Can this be investigated?,illegal_dumping
+767,Is there a place to take plastic bags for recycling? Can you give me guidance?,recycling_question
+768,The waste company didn't collect our waste last Friday. The waste is still at our gate.,missed_pickup
+769,The waste company arrived late. Please improve the collection time.,delayed_pickup
+770,Our household bin has been full for days. Please empty it.,full_bin
+771,Is there a place to take glass bottles for recycling?,recycling_question
+772,Where can I recycle old paper? Can you give me guidance?,recycling_question
+773,Where should I take glass bottles? I want to dispose of them properly.,recycling_question
+774,What should I do with old newspapers if I want to recycle it? Please advise.,recycling_question
+775,The communal bin cannot hold any more waste. There is nowhere to put more rubbish.,full_bin
+776,How should I recycle old newspapers? I do not want to put them in general waste.,recycling_question
+777,Can used packaging be recycled? I would like to separate my waste.,recycling_question
+778,The bin outside our house has been full for days. There is nowhere to put more rubbish.,full_bin
+779,People keep throwing rubbish beside the road. This keeps happening.,illegal_dumping
+780,Our garbage container cannot hold any more waste. There is nowhere to put more rubbish.,full_bin
+781,The waste company came a day after the scheduled collection. This delay keeps happening.,delayed_pickup
+782,The garbage truck was delayed again. This affects our waste schedule.,delayed_pickup
+783,Someone abandoned garbage on the roadside. The waste should be cleared.,illegal_dumping
+784,There is a large pile of waste next to the drainage. Can this be investigated?,illegal_dumping
+785,The waste company arrived late. We had to leave the rubbish outside for longer.,delayed_pickup
+786,The waste company came two days late. We had to leave the rubbish outside for longer.,delayed_pickup
+787,The collectors did not arrive at the expected time. We had to leave the rubbish outside for longer.,delayed_pickup
+788,Someone dumped a pile of rubbish beside the road. The waste should be cleared.,illegal_dumping
+789,The communal bin has been full for days. Waste is starting to fall onto the ground.,full_bin
+790,The neighborhood waste bin has been full for days. Can someone come and empty it?,full_bin
+791,Someone abandoned garbage close to our neighborhood. The waste should be cleared.,illegal_dumping
+792,What should I do with metal cans if I want to recycle it? I would like to separate my waste.,recycling_question
+793,The collectors keeps coming late. This affects our waste schedule.,delayed_pickup
+794,What should I do with recyclable waste if I want to recycle it? I want to dispose of them properly.,recycling_question
+795,The waste company never arrived on collection day. Our scheduled collection was missed.,missed_pickup
+796,The rubbish truck skipped our house this week. Please arrange a collection.,missed_pickup
+797,Our household bin is completely full. Can someone come and empty it?,full_bin
+798,My waste bin is overflowing. Waste is starting to fall onto the ground.,full_bin
+799,The collection team never arrived today.,missed_pickup
+800,Our household bin has no space left. We need a collection soon.,full_bin
+801,Our garbage container has no space left. Waste is starting to fall onto the ground.,full_bin
+802,The pickup team didn't show up today. We need help with the pickup.,missed_pickup
+803,The waste collectors missed our street during the scheduled pickup. This has left rubbish outside our home.,missed_pickup
+804,Can old newspapers be recycled? I would like to separate my waste.,recycling_question
+805,Is there a recycling point for plastic bottles? I do not want to put them in general waste.,recycling_question
+806,The neighborhood waste bin is filled to the top.,full_bin
+807,The collection team did not pick up the rubbish for the second week. Please arrange a collection.,missed_pickup
+808,People are dumping garbage behind our building. Can this be investigated?,illegal_dumping
+809,The neighborhood waste bin is filled to the top. Can someone come and empty it?,full_bin
+810,My waste bin is overflowing with rubbish. Please empty it.,full_bin
+811,The waste company didn't show up yesterday.,missed_pickup
+812,Our garbage container is completely full. It needs urgent collection.,full_bin
+813,Our garbage container is overflowing. Can someone come and empty it?,full_bin
+814,The neighborhood waste bin is overflowing. Can someone come and empty it?,full_bin
+815,My waste bin is overflowing. It needs urgent collection.,full_bin
+816,The waste collectors did not come today. We need help with the pickup.,missed_pickup
+817,The garbage truck did not arrive at the expected time.,delayed_pickup
+818,My waste bin is overflowing. We need a collection soon.,full_bin
+819,People keep throwing rubbish near our house. Can this be investigated?,illegal_dumping
+820,The waste collection team was delayed again.,delayed_pickup
+821,The neighborhood waste bin cannot hold any more waste. Waste is starting to fall onto the ground.,full_bin
+822,There is waste being dumped near the school. The waste should be cleared.,illegal_dumping
+823,Our household bin cannot hold any more waste. It needs urgent collection.,full_bin
+824,The waste collection team came a day after the scheduled collection. We had to leave the rubbish outside for longer.,delayed_pickup
+825,There is a large pile of waste near the market. Can this be investigated?,illegal_dumping
+826,The waste collection team collected the waste later than scheduled.,delayed_pickup
+827,There is a large pile of waste next to the drainage. This keeps happening.,illegal_dumping
+828,Construction waste has been dumped close to our neighborhood. The waste should be cleared.,illegal_dumping
+829,Our household bin has been full for days. Can someone come and empty it?,full_bin
+830,Can metal cans be recycled? Can you give me guidance?,recycling_question
+831,The collectors keeps coming late. Please improve the collection time.,delayed_pickup
+832,The collection team failed to collect the garbage this morning. Please arrange a collection.,missed_pickup
+833,The neighborhood waste bin is overflowing. Waste is starting to fall onto the ground.,full_bin
+834,The bin outside our house is overflowing. Can someone come and empty it?,full_bin
+835,My waste bin is overflowing.,full_bin
+836,The rubbish truck never arrived during the scheduled pickup. Our scheduled collection was missed.,missed_pickup
+837,Do you collect cardboard for recycling? Please advise.,recycling_question
+838,The garbage truck did not come for the second week. The waste is still at our gate.,missed_pickup
+839,The waste company did not come on collection day. Our scheduled collection was missed.,missed_pickup
+840,Where should I take plastic containers? I do not want to put them in general waste.,recycling_question
+841,The bin outside our house is filled to the top. Waste is starting to fall onto the ground.,full_bin
+842,The garbage truck came two days late. This affects our waste schedule.,delayed_pickup
+843,The waste company came two days late. This delay keeps happening.,delayed_pickup
+844,Do you collect cardboard for recycling?,recycling_question
+845,Is there a place to take old paper for recycling? Can you give me guidance?,recycling_question
+846,The waste company was delayed again. We would like collections to happen on time.,delayed_pickup
+847,People are dumping garbage on the roadside.,illegal_dumping
+848,Our household bin is overflowing.,full_bin
+849,There is waste being dumped near our house. This keeps happening.,illegal_dumping
+850,The collectors came a day after the scheduled collection. Can you check the collection schedule?,delayed_pickup
+851,Where can I recycle plastic bottles? I would like to separate my waste.,recycling_question
+852,The neighborhood waste bin is overflowing with rubbish. Can someone come and empty it?,full_bin
+853,The waste collection team was several hours late.,delayed_pickup
+854,Where should I take cardboard? Please advise.,recycling_question
+855,Is there a place to take old newspapers for recycling? I do not want to put them in general waste.,recycling_question
+856,The pickup service keeps coming late. We had to leave the rubbish outside for longer.,delayed_pickup
+857,Our household bin has been full for days. We need a collection soon.,full_bin
+858,My waste bin has no space left. There is nowhere to put more rubbish.,full_bin
+859,There is a large pile of waste beside the road. Please have it removed.,illegal_dumping
+860,The waste company keeps coming late.,delayed_pickup
+861,Someone left bags of trash in an empty plot. The waste should be cleared.,illegal_dumping
+862,The neighborhood waste bin is completely full. Can someone come and empty it?,full_bin
+863,What should I do with plastic bags if I want to recycle it? Please advise.,recycling_question
+864,My waste bin cannot hold any more waste. We need a collection soon.,full_bin
+865,Where can I recycle old paper? I would like to separate my waste.,recycling_question
+866,Is there a place to take old newspapers for recycling? Can you give me guidance?,recycling_question
+867,Our garbage container is completely full. There is nowhere to put more rubbish.,full_bin
+868,The waste collection team arrived late. Can you check the collection schedule?,delayed_pickup
+869,Where can I recycle glass bottles? Please advise.,recycling_question
+870,The garbage truck failed to collect the garbage during the scheduled pickup. Please arrange a collection.,missed_pickup
+871,Someone abandoned garbage on the roadside. Please send a cleanup team.,illegal_dumping
+872,How should I recycle used packaging? I would like to separate my waste.,recycling_question
+873,There is waste being dumped on the roadside. It is blocking the area.,illegal_dumping
+874,The garbage truck skipped our house for the second week. Please arrange a collection.,missed_pickup
+875,The garbage truck skipped our house this week. Please arrange a collection.,missed_pickup
+876,Our garbage container is filled to the top.,full_bin
+877,The neighborhood waste bin has no space left.,full_bin
+878,The pickup service came two days late. Please improve the collection time.,delayed_pickup
+879,Our garbage container is filled to the top. Can someone come and empty it?,full_bin
+880,The collectors collected the waste later than scheduled. Can you check the collection schedule?,delayed_pickup
+881,The waste collectors skipped our house today. The waste is still at our gate.,missed_pickup
+882,Where can I recycle cardboard? Please advise.,recycling_question
+883,The pickup service collected the waste later than scheduled. Can you check the collection schedule?,delayed_pickup
+884,Where can I recycle recyclable waste? I do not want to put them in general waste.,recycling_question
+885,The waste collection team collected the waste later than scheduled. This affects our waste schedule.,delayed_pickup
+886,The garbage truck did not pick up the rubbish this morning. Our scheduled collection was missed.,missed_pickup
+887,How should I recycle glass bottles? I would like to separate my waste.,recycling_question
+888,Someone left bags of trash on the roadside. Please have it removed.,illegal_dumping
+889,Is there a recycling point for plastic bags? Please advise.,recycling_question
+890,Someone abandoned garbage beside the road. This keeps happening.,illegal_dumping
+891,Do you collect old paper for recycling? Please advise.,recycling_question
+892,The rubbish truck missed our street on collection day. Can someone collect it?,missed_pickup
+893,The garbage truck arrived late. We had to leave the rubbish outside for longer.,delayed_pickup
+894,What should I do with recyclable waste if I want to recycle it? I would like to separate my waste.,recycling_question
+895,The communal bin is filled to the top. There is nowhere to put more rubbish.,full_bin
+896,The waste company arrived late. We would like collections to happen on time.,delayed_pickup
+897,Our garbage container is completely full. Waste is starting to fall onto the ground.,full_bin
+898,Where should I take metal cans? I do not want to put them in general waste.,recycling_question
+899,The neighborhood waste bin has been full for days. Please empty it.,full_bin
+900,The rubbish truck did not pick up the rubbish yesterday.,missed_pickup
+901,The rubbish truck missed our street for the second week. We need help with the pickup.,missed_pickup
+902,The garbage truck came a day after the scheduled collection.,delayed_pickup
+903,The waste company did not pick up the rubbish today. Our scheduled collection was missed.,missed_pickup
+904,How should I recycle cardboard? Can you give me guidance?,recycling_question
+905,What should I do with old paper if I want to recycle it? Can you give me guidance?,recycling_question
+906,The garbage truck skipped our house this morning. We need help with the pickup.,missed_pickup
+907,The rubbish truck didn't collect our waste this morning.,missed_pickup
+908,The waste company never arrived last Friday. Our scheduled collection was missed.,missed_pickup
+909,The waste collection team came two days late.,delayed_pickup
+910,The waste collection team was delayed again. This delay keeps happening.,delayed_pickup
+911,Do you collect plastic bottles for recycling? I do not want to put them in general waste.,recycling_question
+912,Our garbage container is filled to the top. There is nowhere to put more rubbish.,full_bin
+913,The collectors arrived late. Please improve the collection time.,delayed_pickup
+914,The bin outside our house is filled to the top. It needs urgent collection.,full_bin
+915,The garbage truck arrived late. We would like collections to happen on time.,delayed_pickup
+916,Is there a recycling point for glass bottles? Can you give me guidance?,recycling_question
+917,There is a large pile of waste on the roadside.,illegal_dumping
+918,The collectors keeps coming late. We had to leave the rubbish outside for longer.,delayed_pickup
+919,People keep throwing rubbish in an empty plot. Please have it removed.,illegal_dumping
+920,The garbage truck arrived late. Can you check the collection schedule?,delayed_pickup
+921,The neighborhood waste bin is filled to the top. Waste is starting to fall onto the ground.,full_bin
+922,Our garbage container cannot hold any more waste. Can someone come and empty it?,full_bin
+923,The rubbish truck did not come today. Can someone collect it?,missed_pickup
+924,The pickup team did not pick up the rubbish last Friday. Please arrange a collection.,missed_pickup
+925,People keep throwing rubbish beside the road. Please have it removed.,illegal_dumping
+926,The collectors was several hours late. This affects our waste schedule.,delayed_pickup
+927,There is waste being dumped near our house. It is blocking the area.,illegal_dumping
+928,The rubbish truck did not come on collection day. Our scheduled collection was missed.,missed_pickup
+929,Do you collect used packaging for recycling? Can you give me guidance?,recycling_question
+930,The waste company did not arrive at the expected time. This delay keeps happening.,delayed_pickup
+931,Someone abandoned garbage beside the road. It is making the area dirty.,illegal_dumping
+932,Is there a place to take plastic bottles for recycling? I want to dispose of them properly.,recycling_question
+933,Our household bin has been full for days. It needs urgent collection.,full_bin
+934,The garbage truck arrived late. Please improve the collection time.,delayed_pickup
+935,People keep throwing rubbish near the market. It is making the area dirty.,illegal_dumping
+936,People are dumping garbage close to our neighborhood. It is making the area dirty.,illegal_dumping
+937,The waste company didn't show up yesterday. Our bags are still outside.,missed_pickup
+938,Do you collect plastic bottles for recycling?,recycling_question
+939,Is there a place to take plastic bags for recycling?,recycling_question
+940,The pickup team failed to collect the garbage for the second week. Our scheduled collection was missed.,missed_pickup
+941,The rubbish truck collected the waste later than scheduled. Please improve the collection time.,delayed_pickup
+942,The waste collectors did not come this morning. Our bags are still outside.,missed_pickup
+943,The rubbish truck didn't show up yesterday. We need help with the pickup.,missed_pickup
+944,The waste company came a day after the scheduled collection. Can you check the collection schedule?,delayed_pickup
+945,What should I do with cardboard if I want to recycle it? Can you give me guidance?,recycling_question
+946,The collectors keeps coming late. We would like collections to happen on time.,delayed_pickup
+947,The waste collectors did not pick up the rubbish last Friday. We need help with the pickup.,missed_pickup
+948,The pickup team missed our street on collection day. We need help with the pickup.,missed_pickup
+949,Can metal cans be recycled? I do not want to put them in general waste.,recycling_question
+950,Our household bin is overflowing. Can someone come and empty it?,full_bin
+951,Someone left bags of trash in an empty plot.,illegal_dumping
+952,Where can I recycle old newspapers?,recycling_question
+953,The garbage truck arrived late. This delay keeps happening.,delayed_pickup
+954,Someone abandoned garbage near the school. It is blocking the area.,illegal_dumping
+955,Someone abandoned garbage close to our neighborhood. Please have it removed.,illegal_dumping
+956,The rubbish truck arrived late.,delayed_pickup
+957,The pickup service came a day after the scheduled collection. We would like collections to happen on time.,delayed_pickup
+958,The waste collection team was several hours late. This delay keeps happening.,delayed_pickup
+959,The rubbish truck did not come this morning. This has left rubbish outside our home.,missed_pickup
+960,The rubbish truck came a day after the scheduled collection. This delay keeps happening.,delayed_pickup
+961,The waste company did not pick up the rubbish during the scheduled pickup. Our bags are still outside.,missed_pickup
+962,The collection team never arrived on collection day. Please arrange a collection.,missed_pickup
+963,Our garbage container has been full for days. Waste is starting to fall onto the ground.,full_bin
+964,Someone left bags of trash on the roadside. This keeps happening.,illegal_dumping
+965,Someone left bags of trash beside the road. This keeps happening.,illegal_dumping
+966,The neighborhood waste bin cannot hold any more waste. We need a collection soon.,full_bin
+967,There is waste being dumped in an empty plot. It is making the area dirty.,illegal_dumping
+968,How should I recycle metal cans? I would like to separate my waste.,recycling_question
+969,Construction waste has been dumped beside the road. The waste should be cleared.,illegal_dumping
+970,The garbage truck keeps coming late. This affects our waste schedule.,delayed_pickup
+971,The waste company missed our street for the second week. We need help with the pickup.,missed_pickup
+972,The pickup service collected the waste later than scheduled. This delay keeps happening.,delayed_pickup
+973,How should I recycle old paper? I would like to separate my waste.,recycling_question
+974,The garbage truck did not come this morning.,missed_pickup
+975,The communal bin is overflowing. Can someone come and empty it?,full_bin
+976,Can cardboard be recycled? I want to dispose of them properly.,recycling_question
+977,The waste company skipped our house during the scheduled pickup.,missed_pickup
+978,The pickup service collected the waste later than scheduled. Please improve the collection time.,delayed_pickup
+979,The waste company failed to collect the garbage today. Please arrange a collection.,missed_pickup
+980,The neighborhood waste bin is overflowing. There is nowhere to put more rubbish.,full_bin
+981,Is there a recycling point for plastic containers? I would like to separate my waste.,recycling_question
+982,The communal bin is overflowing with rubbish. It needs urgent collection.,full_bin
+983,The waste company keeps coming late. This affects our waste schedule.,delayed_pickup
+984,The collection team didn't collect our waste this week. Our scheduled collection was missed.,missed_pickup
+985,The rubbish truck came a day after the scheduled collection. Can you check the collection schedule?,delayed_pickup
+986,The garbage truck never arrived last Friday. Can someone collect it?,missed_pickup
+987,Is there a place to take cardboard for recycling? I do not want to put them in general waste.,recycling_question
+988,The waste company did not come this week. Our scheduled collection was missed.,missed_pickup
+989,The waste company didn't show up this morning. Our bags are still outside.,missed_pickup
+990,Someone dumped a pile of rubbish near the market. Please send a cleanup team.,illegal_dumping
+991,Construction waste has been dumped on the roadside. It is making the area dirty.,illegal_dumping
+992,The neighborhood waste bin is filled to the top. It needs urgent collection.,full_bin
+993,The waste collection team came a day after the scheduled collection. Please improve the collection time.,delayed_pickup
+994,Is there a recycling point for cardboard? I do not want to put them in general waste.,recycling_question
+995,Someone dumped a pile of rubbish near our house. The waste should be cleared.,illegal_dumping
+996,The pickup service did not arrive at the expected time.,delayed_pickup
+997,The bin outside our house is completely full. Please empty it.,full_bin
+998,My waste bin is overflowing with rubbish. It needs urgent collection.,full_bin
+999,The waste collectors didn't show up during the scheduled pickup. This has left rubbish outside our home.,missed_pickup
+1000,The pickup team did not pick up the rubbish during the scheduled pickup. Our scheduled collection was missed.,missed_pickup
