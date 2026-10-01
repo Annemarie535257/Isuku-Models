@@ -55,6 +55,7 @@ with st.sidebar:
     st.markdown('<div class="sidebar-caption">PAGES</div>', unsafe_allow_html=True)
     st.page_link("streamlit_app.py", label="🏠  Household")
     st.page_link("pages/1_Admin_Dashboard.py", label="📊  Admin")
+    st.page_link("pages/2_Model_Comparison.py", label="🧪  Compare models")
     st.markdown("<br><small>Anne Marie<br>Household account</small>", unsafe_allow_html=True)
 
 st.markdown("<div class='intro'><b style='color:#087f3f;letter-spacing:1.5px;font-size:10px'>HOUSEHOLD SERVICES</b></div>", unsafe_allow_html=True)

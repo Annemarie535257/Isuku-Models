@@ -1,8 +1,10 @@
 jupyter
 ipykernel
 joblib
+gensim
 matplotlib
 pandas
 scikit-learn
 seaborn
 streamlit
+numpy

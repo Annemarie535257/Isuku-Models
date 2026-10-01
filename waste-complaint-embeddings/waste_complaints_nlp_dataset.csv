@@ -1,0 +1,11 @@
+id,text,label
+1,"Our rubbish has not been collected this week.","missed_pickup"
+2,"There is a huge pile of rubbish dumped next to the road.","illegal_dumping"
+3,"Where can I recycle plastic bottles?","recycling_question"
+4,"The communal bin is completely full.","full_bin"
+5,"The collectors came two days late.","delayed_pickup"
+6,"I saw someone dumping waste in the river.","illegal_dumping"
+7,"My bin was not emptied on the scheduled day.","missed_pickup"
+8,"Is there a place to recycle glass bottles?","recycling_question"
+9,"The waste collection service is very unreliable.","delayed_pickup"
+10,"The bin is overflowing with trash.","full_bin"

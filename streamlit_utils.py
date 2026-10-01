@@ -3,11 +3,16 @@ import sqlite3
 from pathlib import Path
 
 import joblib
+import gensim.downloader as api
 import pandas as pd
+import numpy as np
+import re
+import streamlit as st
 
 
 BASE_DIR = Path(__file__).resolve().parent
 MODEL_PATH = BASE_DIR / "model" / "waste_complaint_classifier.joblib"
+EMBEDDING_MODEL_PATH = BASE_DIR / "waste-complaint-embeddings" / "model" / "waste_complaint_embeddings_classifier.joblib"
 DATABASE_PATH = BASE_DIR / "complaints.sqlite3"
 UPLOADS_DIR = BASE_DIR / "uploads"
 
@@ -24,6 +29,43 @@ def get_model():
     if not MODEL_PATH.exists():
         raise FileNotFoundError(f"Model not found at {MODEL_PATH}")
     return joblib.load(MODEL_PATH)
+
+
+@st.cache_resource
+def get_embedding_model():
+    if not EMBEDDING_MODEL_PATH.exists():
+        raise FileNotFoundError(f"Embedding model not found at {EMBEDDING_MODEL_PATH}")
+    return joblib.load(EMBEDDING_MODEL_PATH)
+
+
+@st.cache_resource
+def get_glove_vectors():
+    return api.load("glove-wiki-gigaword-100")
+
+
+def clean_embedding_text(text):
+    text = str(text).lower()
+    text = re.sub(r"https?://\S+|www\.\S+", " ", text)
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def get_glove_embedding(text):
+    glove_vectors = get_glove_vectors()
+    words = clean_embedding_text(text).split()
+    embeddings = [glove_vectors[word] for word in words if word in glove_vectors]
+    return np.mean(embeddings, axis=0) if embeddings else np.zeros(glove_vectors.vector_size)
+
+
+def predict_with_embedding(description):
+    artifact = get_embedding_model()
+    embedding = get_glove_embedding(description).reshape(1, -1)
+    model = artifact["model"] if isinstance(artifact, dict) else artifact
+    prediction = str(model.predict(embedding)[0])
+    confidence = None
+    if hasattr(model, "predict_proba"):
+        confidence = round(float(max(model.predict_proba(embedding)[0])) * 100, 1)
+    return prediction, confidence
 
 
 def init_database():
