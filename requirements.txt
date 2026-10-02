@@ -1,10 +1,7 @@
-jupyter
-ipykernel
-joblib
-gensim
-matplotlib
-pandas
-scikit-learn
-seaborn
-streamlit
-numpy
+streamlit==1.39.0
+joblib==1.4.2
+numpy<3
+pandas<3
+scikit-learn<2
+scipy<2
+gensim==4.4.0

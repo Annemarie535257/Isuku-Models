@@ -3,7 +3,6 @@ import sqlite3
 from pathlib import Path
 
 import joblib
-import gensim.downloader as api
 import pandas as pd
 import numpy as np
 import re
@@ -40,6 +39,8 @@ def get_embedding_model():
 
 @st.cache_resource
 def get_glove_vectors():
+    import gensim.downloader as api
+
     return api.load("glove-wiki-gigaword-100")
 
 
